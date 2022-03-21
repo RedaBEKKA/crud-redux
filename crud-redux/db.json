@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "name": "BEKKA MADARA",
+      "address": "BEJAIA",
+      "email": "reda.bekka@gmail.com",
+      "contact": "0782205066",
+      "id": 1
+    },
+    {
+      "name": "Birem",
+      "email": "kafia.bekka@gmail.Com",
+      "contact": "0782205077",
+      "address": "Tahmamt Bejaia",
+      "id": 3
+    },
+    {
+      "name": "Reda BEKKA",
+      "email": "reda.bekka@gmail.com",
+      "contact": "0782205066",
+      "address": "Paris FR",
+      "id": 4
+    },
+    {
+      "name": "Impossi",
+      "email": "reda.bekka@kepler-technologies.com",
+      "contact": "05506788",
+      "address": "Miami beach",
+      "id": 5
+    }
+  ]
+}
